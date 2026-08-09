@@ -24,7 +24,7 @@ This project is a simple simulation of a cargo port system. It manages the movem
 * GUI Development (JavaFX): Applied object-oriented concepts to connect the core system model to a Graphical User Interface (GUI) built with JavaFX.
 * Software Maintainability: Practiced disciplined individual habits to ensure software remain maintainable, including strict adherence to a style guide and passing Checkstyle automated formatting.
 
-## Technical Skills DemonstratedLanguages: 
-* Java (version 11)
+## Technical Skills Demonstrated 
+* Languages: Java (version 11)
 * Frameworks & Libraries: JUnit 4.12, JavaFX
 * Concepts: Object-Oriented Programming (OOP), Unit Testing, Graphical User Interfaces (GUI), File I/O, Inheritance & Interfaces, Code Maintainability.  
